@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rachel Van Sciver
-- 👀 I’m interested in all kinds of stuff! I like cats, web development, developing in C and C++, and heavy metal.
-- 🌱 I’m currently learning C by writing a text editor
-- 💞️ I’m looking to collaborate on an open source project
+- 👀 I’m interested in all kinds of stuff! I like cats, web development, functional programming and heavy metal.
+- 🌱 I’m currently learning C by writing a text editor, aside from my computer science coursework.
+- 💞️ I’m looking to collaborate on an open source project!
 - 📫 Holla at me: rvansciver33@gmail.com
 
 <!---
