@@ -2,7 +2,7 @@
 - 👀 I’m interested in all kinds of stuff! I like cats, web development, functional programming and heavy metal.
 - 🌱 I’m currently learning C by writing a text editor, aside from my computer science coursework.
 - 💞️ I’m looking to collaborate on an open source project!
-- 📫 Holla at me: rvansciver33@gmail.com
+- 📫 Contact me if you're interested in working together! rvansciver33@gmail.com
 
 <!---
 rachelvansciver/rachelvansciver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
