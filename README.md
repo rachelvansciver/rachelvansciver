@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @rachelvansciver
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Rachel Van Sciver
+- 👀 I’m interested in all kinds of stuff! I like cats, web development, developing in C and C++, and heavy metal.
+- 🌱 I’m currently learning C by writing a text editor
+- 💞️ I’m looking to collaborate on any open source project
+- 📫 How to reach me rvansciver33@gmail.com
 
 <!---
 rachelvansciver/rachelvansciver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
